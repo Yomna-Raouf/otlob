@@ -1,9 +1,0 @@
-.scroll-item {
-    -ms-overflow-style: none;
-    scrollbar-width: none;
-}
-
-
-.scroll-item::-webkit-scrollbar {
-    display: none;
-}

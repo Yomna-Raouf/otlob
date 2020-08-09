@@ -1,0 +1,33 @@
+{
+  "files": {
+    "main.css": "/otlob.git/static/css/main.fe988f01.chunk.css",
+    "main.js": "/otlob.git/static/js/main.45482381.chunk.js",
+    "main.js.map": "/otlob.git/static/js/main.45482381.chunk.js.map",
+    "runtime-main.js": "/otlob.git/static/js/runtime-main.77371198.js",
+    "runtime-main.js.map": "/otlob.git/static/js/runtime-main.77371198.js.map",
+    "static/js/2.dd383ce9.chunk.js": "/otlob.git/static/js/2.dd383ce9.chunk.js",
+    "static/js/2.dd383ce9.chunk.js.map": "/otlob.git/static/js/2.dd383ce9.chunk.js.map",
+    "index.html": "/otlob.git/index.html",
+    "precache-manifest.1e1839dc84ef99f295b72f2870210ed2.js": "/otlob.git/precache-manifest.1e1839dc84ef99f295b72f2870210ed2.js",
+    "service-worker.js": "/otlob.git/service-worker.js",
+    "static/css/main.fe988f01.chunk.css.map": "/otlob.git/static/css/main.fe988f01.chunk.css.map",
+    "static/js/2.dd383ce9.chunk.js.LICENSE.txt": "/otlob.git/static/js/2.dd383ce9.chunk.js.LICENSE.txt",
+    "static/media/Bag.svg": "/otlob.git/static/media/Bag.04125261.svg",
+    "static/media/Group-182.svg": "/otlob.git/static/media/Group-182.bb1260c1.svg",
+    "static/media/Group-188.svg": "/otlob.git/static/media/Group-188.d3db489b.svg",
+    "static/media/otlob-epo.webflow.css": "/otlob.git/static/media/pic.057e0f82.jpg",
+    "static/media/Rectangle-129.png": "/otlob.git/static/media/Rectangle-129.01c0a3b6.png",
+    "static/media/Subtraction-14.svg": "/otlob.git/static/media/Subtraction-14.71d0769d.svg",
+    "static/media/Subtraction-17.svg": "/otlob.git/static/media/Subtraction-17.ab744626.svg",
+    "static/media/Subtraction-4.svg": "/otlob.git/static/media/Subtraction-4.038cd4c0.svg",
+    "static/media/Union-4.svg": "/otlob.git/static/media/Union-4.0d300ad3.svg",
+    "static/media/arrow.svg": "/otlob.git/static/media/arrow.ee43a682.svg",
+    "static/media/emptystate.svg": "/otlob.git/static/media/emptystate.45d64b5b.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.77371198.js",
+    "static/js/2.dd383ce9.chunk.js",
+    "static/css/main.fe988f01.chunk.css",
+    "static/js/main.45482381.chunk.js"
+  ]
+}
