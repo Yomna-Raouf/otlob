@@ -16,14 +16,14 @@ function InfoPage() {
                    <UserWorkingHours />
 
                     <div className="div-block45">
-                        <h4 className="heading-15">Open</h4>
+                        <h4 style={{fontWeight: '500'}} className="heading-15">Open</h4>
                     </div>
                 </div>
             </div>
 
             <div className="div-block-49">
                 <Link style={{ textDecoration: 'none' }} to='/otlobEpo'>
-                    <h5 className="heading-16">Sign Out</h5>
+                    <h5 style={{fontWeight: '500'}} className="heading-16">Sign Out</h5>
                 </Link>
             </div>   
         </div>

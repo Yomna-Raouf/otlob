@@ -7,8 +7,8 @@ function UserWorkingHours() {
                 <img src={require("../images/Subtraction-17.svg")} alt="" className="image-4" />
             </div>
             <div>
-                <h4 className="heading-14">Working Hours</h4>
-                <p className="paragraph-3">9AM  -  6PM</p>
+                <h4 style={{fontWeight: '500'}} className="heading-14">Working Hours</h4>
+                <p style={{fontWeight: '500'}} className="paragraph-3">9AM  -  6PM</p>
             </div>
         </div>
     )

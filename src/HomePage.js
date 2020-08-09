@@ -14,8 +14,7 @@ function homePage() {
             <OrdersButtons />
             <OrdersInfoList />
             <div className="div-block-28"></div>
-        </div>
-      
+        </div> 
     )
 }
 

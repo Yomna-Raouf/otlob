@@ -1,0 +1,4 @@
+.popup--fade {
+    height: 2.4rem;
+    background-image: linear-gradient( 180deg, transparent, rgb(250 251 253), #fff );
+}

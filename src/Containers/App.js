@@ -1,11 +1,16 @@
 import React from 'react';
 import './App.css';
+import '../css/normalize.css';
+import '../css/webflow.css';
+import '../css/otlob-epo.webflow.css';
 import {BrowserRouter, Route, Switch} from 'react-router-dom'
 import HomePage from '../HomePage';
 import OrdersDetails from '../OrdersDetails';
 import SigninPage from '../SigninPage';
 import InfoPage from '../InfoPage';
 import HomePageCopy from '../HomePageCopy';
+import OrdersPage from '../OrdersPage';
+import homePage from '../HomePage';
 
 
 
@@ -15,7 +20,8 @@ function App() {
      <div className='App'>
         <Switch>
           <Route path='/' exact>
-            <HomePage />
+            <OrdersPage />
+            {/* <homePage /> */}
           </Route >
             
           <Route path='/ordersDetails' exact>
@@ -30,9 +36,9 @@ function App() {
             <InfoPage />
           </Route>
 
-          <Route path='/Home' exact>
+          {/*<Route path='/Home' exact>
             <HomePageCopy />  
-          </Route>
+          </Route>*/}
         </Switch>
       </div>
     </BrowserRouter>   

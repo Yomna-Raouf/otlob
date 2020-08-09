@@ -7,8 +7,8 @@ function User() {
             <div className="div-block-43">
                 <div className="div-block-44"></div>
                 <div className="div-block-46">
-                    <h4 className="heading-13">Que jen</h4>
-                    <p className="paragraph-2">Al Hamra</p>
+                    <h4 style={{fontWeight: '500'}} className="heading-13">Que jen</h4>
+                    <p  style={{fontWeight: '500'}} className="paragraph-2">Al Hamra</p>
                 </div>
             
                 <div className="div-block-45">
