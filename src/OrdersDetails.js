@@ -18,7 +18,7 @@ function OrdersDetails() {
                         </Link>
                     </div>
                    
-                    <div id="w-node-a55f2fdaf1a8-14578bc6" className="text-block-8">#00002</div>
+                    <div style={{fontWeight: '500'}} id="w-node-a55f2fdaf1a8-14578bc6" className="text-block-8">#00002</div>
                     <div id="w-node-64075cc170c7-14578bc6" className="text-block-9">0550002445</div>
                 </div>
             </div>

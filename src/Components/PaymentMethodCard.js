@@ -8,8 +8,8 @@ function PaymentMethodCard() {
                     <img src={require("../images/Union-4.svg")} height="15" width="15" alt="" className="image-3" />
                 </div>
                 <div className="div-block-18">
-                <div className="order-details">Payment Method</div>
-                <p className="paragraph">Apple Pay</p>
+                <div style={{fontWeight: '500'}} className="order-details">Payment Method</div>
+                <p style={{fontWeight: '500'}} className="paragraph">Apple Pay</p>
                 </div>
             </div>
         </div>
